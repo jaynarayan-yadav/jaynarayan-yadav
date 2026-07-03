@@ -10,42 +10,7 @@
 
 ---
 
-## AI Data Engine
 
-A modular pipeline for ingesting, processing, and preparing large-scale datasets for language models.
-
-```
-✓ Streaming dataset ingestion
-✓ Wikipedia XML parsing
-✓ Cleaning & preprocessing pipeline
-□ Deduplication
-□ Chunking & embedding pipeline
-□ Vector indexing
-□ Distributed workers
-```
-
-[→ Repository](https://github.com/jaynarayan-yadav/ai-data-engine)
-
----
-
-## Ecosystem
-
-```
-       AI Data Engine  ⭐
-              │
-    ┌─────────┴─────────┐
-    │                   │
-    ▼                   ▼
-RAG Framework   Distributed ML Pipeline
-    │
-    ▼
-LLM Evaluation
-    │
-    ▼
-AI Agent Framework
-```
-
----
 
 ## Stack
 
