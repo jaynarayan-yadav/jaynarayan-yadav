@@ -24,9 +24,4 @@ Python • SQL • C++ &nbsp;|&nbsp; PyTorch • NumPy • scikit-learn &nbsp;|&
 
 ---
 
-<div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jaynarayan-yadav&theme=tokyonight" />
-<img width="49%" src="https://leetcard.jacoblin.cool/jay-narayan-yadav?theme=dark&font=Fira%20Code&border=0&radius=10" />
-
-</div>
