@@ -11,8 +11,10 @@
 
 ---
 
-### 🚀 About
-Focused on **Machine Learning Systems**, **Data Engineering**, and **Numerical Computing**. Ask me about Python internals, pandas/NumPy performance, transformer architectures, and scikit-learn API design.
+ ### 🚀 About
+- Learning and building projects in **Machine Learning** and **Data Science**.
+- Currently working on clean data pipelines and Python tooling.
+- Happy to discuss **Python basics, data analysis, and building ML models**.
 
 ---
 
