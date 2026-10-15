@@ -11,23 +11,23 @@
 
 ---
 
- ### 🚀 About
+ ###  About
 - Learning and building projects in **Machine Learning** and **Data Science**.
 - Currently working on clean data pipelines and Python tooling.
 - Happy to discuss **Python basics, data analysis, and building ML models**.
 
 ---
 
-### 🌟 Featured Project
+### Featured Project
 
-#### ⚙️ [DataEngine](https://github.com/jaynarayan-yadav/DataEngine) — *Automated Preprocessing & Profiling Toolkit*
+####  [DataEngine](https://github.com/jaynarayan-yadav/DataEngine) — *Automated Preprocessing & Profiling Toolkit*
 - **Leakage-Free:** Strict `fit`/`transform` semantics preventing test contamination across training and inference.
 - **Production-Ready:** Integrates directly into `sklearn.pipeline.Pipeline` with native serialization and CLI diagnostic cards.
 - **Stack:** Python, pandas, NumPy, scikit-learn, pytest (67+ tests).
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages:** Python, C++, SQL, Bash
 - **ML & Data:** PyTorch, NumPy, pandas, scikit-learn
