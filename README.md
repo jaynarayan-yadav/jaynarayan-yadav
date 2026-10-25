@@ -1,32 +1,15 @@
-<div align="center"> 
+# Hi, I'm Jay
 
-# Hi, I'm Jay 
-<div align="center"> 
+➤ Building MLOPS products from idea to deployment  
+➤ Currently exploring Machine Learning System Designs  
+*My commits have character development btw.*
 
-# Hi, I'm Jay 
-<br>
-
-➤ Building MLOPS products from idea to deployment 
-<br>
-➤ Currently exploring Machine Learning System Designs 
-<br>
-
-My commits have character development btw.** 
-
-[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:zayyadavv@gmail.com) [![GitHub](https://shields.io)](https://github.com) 
-
-</div> 
+<div align="center">
+  <br>
+  <a href="https://linkedin.com"><img src="https://shields.io" alt="LinkedIn"></a>
+  <a href="https://github.com"><img src="https://shields.io" alt="GitHub"></a>
+  <a href="mailto:zayyadavv@gmail.com"><img src="https://shields.io" alt="Email"></a>
+</div>
 
 ---
 
-
-My commits have character development btw.** 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jay-narayan-yadav-a086b7377/) [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:zayyadavv@gmail.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jaynarayan-yadav) 
-
-</div> 
-
----
-
-
- 
