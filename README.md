@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hi, I'm Jay
-➤ Building with 
 ➤ Building MLOPS products from idea to deployment
 ➤ Currently exploring Machine Learning System Designs
 
