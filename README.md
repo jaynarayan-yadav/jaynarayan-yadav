@@ -1,11 +1,24 @@
 <div align="center"> 
 
 # Hi, I'm Jay 
+<div align="center"> 
+
+# Hi, I'm Jay 
 <br>
 
 ➤ Building MLOPS products from idea to deployment 
+<br>
 ➤ Currently exploring Machine Learning System Designs 
 <br>
+
+My commits have character development btw.** 
+
+[![LinkedIn](https://shields.io)](https://linkedin.com) [![Email](https://shields.io)](mailto:zayyadavv@gmail.com) [![GitHub](https://shields.io)](https://github.com) 
+
+</div> 
+
+---
+
 
 My commits have character development btw.** 
 
